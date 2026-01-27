@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clinick_nv", "Clinick_nv\Clinick_nv.csproj", "{D45E8BE7-B10F-4283-BBA5-4B7457383B25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{364FD01F-0745-4616-A807-E19DBFA0DA50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D45E8BE7-B10F-4283-BBA5-4B7457383B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45E8BE7-B10F-4283-BBA5-4B7457383B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45E8BE7-B10F-4283-BBA5-4B7457383B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45E8BE7-B10F-4283-BBA5-4B7457383B25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{364FD01F-0745-4616-A807-E19DBFA0DA50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{364FD01F-0745-4616-A807-E19DBFA0DA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{364FD01F-0745-4616-A807-E19DBFA0DA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{364FD01F-0745-4616-A807-E19DBFA0DA50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D16DCEB-BA9F-405E-8155-2CED70E70990}
+	EndGlobalSection
+EndGlobal
